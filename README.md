@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bekahwebb
 - 👀 I’m interested in statistical data analysis
-- 🌱 I’m currently learning more about navigating github and git
-- I'm also learning about making a blog for myself
+- 🌱 I’m currently learning more about machine learning
+  
 
 
 
